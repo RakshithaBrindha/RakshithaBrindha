@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @RakshithaBrindha
-- 👀 I’m interested in Data Engineering. 
-- 🌱 I’m currently learning Pandas 
+- 👩🏽‍ Hi, I’m Rakshitha. 
+- 👩🏽‍🎓 Msc. Web Science. 
+- 📈 I’m interested in Data Engineering (Cleaning and analysing the data).
+- 📓 I’m currently learning Pandas and R. 
 - 📫 How to reach me : gnanasekaran.rakshitha@gmail.com
 
 <!---
