@@ -1,5 +1,6 @@
 - 👩🏽‍ Hi, I’m Rakshitha. 
 - 👩🏽‍🎓 Msc. Web Science. 
+- ⛏ Preparing for Cloud Practioner Exam 
 - 📈 I’m interested in Data Engineering (Cleaning and analysing the data).
 - 📓 I’m currently learning Pandas and R. 
 - 📫 How to reach me : gnanasekaran.rakshitha@gmail.com
